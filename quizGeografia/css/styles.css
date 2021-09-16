@@ -1,0 +1,39 @@
+h1, h2{
+    text-align: center;
+}
+
+p {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+.pai {
+    display: flex;
+    text-align: center;
+    width: 99vw;
+    justify-content: center;
+    border: black 1px solid;
+    font-size: 20px;
+}
+.filho1, .filho2, .filho3 {
+    width: 33vw;
+    height: 10vh;
+}
+
+.filho1 {
+    background-color: red;
+}
+
+.filho2 {
+    background-color: blue;
+}
+
+.filho3 {
+    background-color: green;
+}
+
